@@ -1,0 +1,9 @@
+# Ignorar arquivos temporários e sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (caso use Node.js no futuro)
+node_modules/
